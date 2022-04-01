@@ -1,0 +1,5 @@
+Passive movment : head bobbing up and down constantly
+Activ movment : feet rotating in a circular movement in around a 120 degree radius
+- almost in a diagonal manner slowly rocking back and fourth opposit to each other
+
+The character only looks to the left and right, the weapon goes in different direction / can be rotated anywhere (360 degrees) from the player's stomach
